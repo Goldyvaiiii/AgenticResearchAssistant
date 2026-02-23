@@ -1,5 +1,6 @@
 # ── Dataset (too large for GitHub ~5GB) ─────────────────────────────────────
-data/
+data/arxiv-metadata-oai-snapshot.csv
+# arxiv_sample.csv IS committed (needed for cloud deployment)
 
 # ── Python ───────────────────────────────────────────────────────────────────
 __pycache__/
